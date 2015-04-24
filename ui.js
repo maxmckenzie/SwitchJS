@@ -10,8 +10,6 @@ var SJS_UI = function(sjs) {
 
 	this.$page.fadeOut(1);
 
-	this.initMenuToggle();
-
 	this.bind();
 };
 
