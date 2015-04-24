@@ -1,5 +1,5 @@
-var SJS_UI = function(switch) {
-	this.switch = switch;
+var SJS_UI = function(sjs) {
+	this.sjs = sjs;
 
 	this.$page = $('#page-view'); // Page View
 	this.$loading = $('#loading'); // Loading State
